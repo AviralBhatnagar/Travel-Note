@@ -1,0 +1,17 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri":"mysql://root:@localhost/blog",
+    "prod_uri" :"",
+    "blog_name":"Travel Note",
+    "tag_line":"A Blog for travelling enthusiast.",
+    "fb_url":"https://facebook.com/travelnote",
+    "twi_url":"https://twitter.com/travelnote",
+    "git_url":"https://github.com/travelnote",
+    "about_us":"",
+    "post_per_page":3,
+    "admin_username":"admin",
+    "admin_userpass":"password"
+  }
+}
